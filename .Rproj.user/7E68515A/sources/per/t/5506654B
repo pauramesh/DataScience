@@ -1,9 +1,9 @@
 {
     "id": "5506654B",
-    "path": "C:/Users/Ramesh/OneDrive/R_STAT/Coursera/Data Science/learning_data_science.R",
+    "path": "C:/Users/Ramesh/OneDrive/R_STAT/Coursera/DataScience/learning_data_science.R",
     "project_path": "learning_data_science.R",
     "type": "r_source",
-    "hash": "3034106887",
+    "hash": "351576900",
     "contents": "",
     "dirty": false,
     "created": 1658281054133.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "355,66",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1658280765,
+    "lastKnownWriteTime": 1659129081,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1658280765,
+    "last_content_update": 1659129081,
     "read_only": false,
     "read_only_alternatives": []
 }
